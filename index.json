@@ -1,0 +1,11 @@
+{
+  "org": "statsmodels",
+  "repo": "statsmodels",
+  "versions": [
+    {
+      "commit": "283253007bde6dd60b48420c47c64d635e96be34",
+      "tag": "",
+      "parsed_at": "2026-10-17T00:06:12.016394+00:00"
+    }
+  ]
+}
